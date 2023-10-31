@@ -1,0 +1,309 @@
+/* -------common css start ------*/
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background: #000;
+}
+.container {
+  max-width: 1320px;
+  margin: 0 auto;
+}
+
+/* -------common css end --------*/
+/* -------navbar start---------- */
+nav {
+  position: absolute !important;
+  width: 100%;
+}
+.navbar_list {
+  margin-right: 60px;
+  font-size: 18px;
+  font-weight: 600;
+}
+.navbar_list_link {
+  color: #ffffff;
+  transform: 0.4s;
+}
+
+.navbar_list_link:hover {
+  color: #000000;
+}
+.active {
+  color: #000000;
+}
+/* -------navbar end---------- */
+/* -------banner start---------- */
+#banner {
+  background: url("../images/banner.png") no-repeat center;
+  background-size: cover;
+}
+
+.banner_subtitle {
+  font-size: 18px;
+  font-weight: 700;
+  color: #ffc178;
+  letter-spacing: 7px;
+  text-transform: uppercase;
+}
+.banner_title {
+  font-size: 96px;
+  font-weight: 700;
+  line-height: 100px;
+  color: #ffffff;
+}
+.banner_sectitle {
+  font-size: 88px;
+  font-weight: 400;
+  line-height: 100px;
+  color: #ffffff;
+}
+.banner_main {
+  padding: 462px 0;
+}
+/* -------banner end---------- */
+
+#holiday {
+  margin-top: 286px;
+}
+
+.holiday_heading {
+  color: #fbd784;
+  font-weight: 700;
+  letter-spacing: 6px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+.holiday_title {
+  width: 496px;
+  color: #ffffff;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 64px;
+  margin-top: 13px;
+}
+.holiday_para {
+  width: 587px;
+  font-size: 14px;
+  text-transform: uppercase;
+  line-height: 32px;
+  color: #ffffff;
+  font-weight: 500;
+  margin-top: 13px;
+}
+
+.holiday_link {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #fbd784;
+  font-weight: 700;
+  font-size: 18px;
+  display: inline-block;
+  margin-top: 66px;
+}
+.holiday_text {
+  margin-top: 53px;
+  margin-left: 23px;
+}
+/* -------steady start---------- */
+#steady {
+  margin-top: 358px;
+}
+.steady_main {
+  position: relative;
+}
+.steady_text {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  bottom: 85px;
+}
+.steady_head {
+  font-weight: 700;
+  font-style: normal;
+  font-size: 18px;
+  letter-spacing: 6px;
+  color: #fbd784;
+  text-transform: uppercase;
+}
+.steady_title {
+  text-align: center;
+  margin: 0 auto;
+  width: 898px;
+  font-weight: 700;
+  font-size: 64px;
+  font-style: normal;
+  letter-spacing: 6px;
+  color: #ffffff;
+  text-transform: uppercase;
+  margin-bottom: 14px;
+}
+.steady_para {
+  margin: 0 auto;
+  width: 893px;
+  font-weight: 400;
+  color: #ffffff;
+  line-height: 32px;
+  font-size: 15px;
+  text-transform: uppercase;
+  margin-bottom: 26px;
+}
+.steady_link {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #fbd784;
+  font-weight: 700;
+  font-size: 18px;
+  display: inline-block;
+}
+/* -------steady end---------- */
+/* ---------- indonesian start ----------- */
+#indonesian {
+  margin-top: 295px;
+}
+.indonesia_left_text {
+  margin-top: 159px;
+}
+.indonesia_sub_heading {
+  color: #fbd784;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 6px;
+  text-transform: uppercase;
+  margin-bottom: 19px;
+}
+.indonesia_heading {
+  width: 663px;
+  color: #fff;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  margin-bottom: 19px;
+}
+.indonesia_pera {
+  width: 655px;
+  color: #fff;
+  font-family: Open Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px; /* 177.778% */
+  text-transform: uppercase;
+}
+.indonesia_link {
+  display: inline-block;
+  color: #fbd784;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  text-decoration: none;
+  margin-top: 162px;
+}
+.indonesia_right_img {
+  margin-left: 37px;
+}
+/*  ---------- indonesian end -----------*/
+/*  ---------- footer start -----------*/
+#footer {
+  margin-top: 190px;
+}
+.footer_heading {
+  color: #fff;
+  width: 405px;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -0.3px;
+  text-transform: capitalize;
+  margin-top: 82px;
+}
+.footer_pera {
+  color: #fff;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -0.205px;
+  text-transform: capitalize;
+  margin-top: 49px;
+}
+.social_media {
+  list-style: none;
+  color: #fff;
+  display: flex;
+  gap: 29px;
+  padding: 0;
+}
+.footer_right {
+  margin-bottom: 86px;
+}
+.footer_right_heading {
+  color: #fff;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -0.3px;
+  text-transform: capitalize;
+  margin-right: 18px;
+}
+.footer_right {
+  display: flex;
+  justify-content: end;
+}
+.footer_right_link {
+  padding: 18px 67px;
+  width: 232px;
+  height: 59px;
+  margin-top: -10px;
+  border-radius: 10px;
+  background: #ffa343;
+  text-decoration: none;
+  color: #000;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: capitalize;
+}
+.footer_left_firsts_first {
+  margin-bottom: 11px;
+  color: #ffd1a0;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -0.232px;
+  text-transform: capitalize;
+}
+.footer_left_first {
+  list-style: none;
+  margin-bottom: 219px;
+}
+.footer_left_firsts_others {
+  margin-bottom: 9px;
+  color: #fff;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -0.205px;
+  text-transform: capitalize;
+}
+.copyright {
+  margin-bottom: 30px;
+  color: rgba(255, 255, 255, 0.5);
+  text-align: center;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 32px; /* 177.778% */
+}
+/*  ---------- footer end -----------*/

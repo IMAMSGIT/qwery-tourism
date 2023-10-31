@@ -1,0 +1,373 @@
+@media (min-width: 320px) and (max-width: 575px) {
+  .banner_title {
+    font-size: 50px;
+  }
+  .banner_sectitle {
+    font-size: 46px;
+    line-height: 50px;
+  }
+  .banner_main {
+    padding: 259px 0;
+  }
+  #holiday {
+    margin-top: 50px;
+  }
+  .holiday_img {
+    width: 100%;
+  }
+  .holiday_title {
+    width: auto;
+    font-size: 40px;
+  }
+  .holiday_para {
+    width: auto;
+    line-height: 25px;
+  }
+  .holiday_link {
+    margin-top: 1px;
+  }
+  #steady {
+    margin-top: 50px;
+  }
+  .steady_title {
+    width: auto;
+    font-size: 40px;
+  }
+  .steady_para {
+    width: auto;
+    line-height: 29px;
+  }
+  .steady_text {
+    position: static;
+    margin-top: 20px;
+  }
+  .steady_img {
+    width: 100%;
+  }
+  .indonesia_heading {
+    width: auto;
+    font-size: 29px;
+  }
+  .indonesia_pera {
+    width: auto;
+    font-size: 13px;
+  }
+  .indonesia_left_text {
+    margin-top: -202px;
+  }
+  .indonesia_link {
+    margin-top: 10px;
+  }
+  .indonesia_right_img {
+    width: 100%;
+    margin-left: 1px;
+  }
+  #footer {
+    margin-top: 40px;
+  }
+  .footer_heading {
+    width: auto;
+    margin-top: 6px;
+    font-size: 28px;
+  }
+  .footer_pera {
+    margin-top: 6px;
+  }
+  .footer_right_heading {
+    margin-right: -2px;
+    font-size: 19px;
+  }
+  .footer_right_link {
+    padding: 17px 45px;
+    margin-top: -4px;
+  }
+  .footer_right {
+    margin-bottom: 20px;
+  }
+  .footer_left_first {
+    margin-bottom: 20px;
+    padding: 0;
+  }
+}
+@media (min-width: 576px) and (max-width: 767px) {
+  .banner_title {
+    font-size: 50px;
+  }
+  .banner_sectitle {
+    font-size: 46px;
+
+    line-height: 50px;
+  }
+  .banner_main {
+    padding: 259px 0;
+  }
+  #holiday {
+    margin-top: 50px;
+  }
+  .holiday_img {
+    width: 100%;
+  }
+  .holiday_title {
+    width: auto;
+    font-size: 40px;
+  }
+  .holiday_para {
+    width: auto;
+    line-height: 25px;
+  }
+  .holiday_link {
+    margin-top: 1px;
+  }
+  #steady {
+    margin-top: 50px;
+  }
+  .steady_title {
+    width: auto;
+    font-size: 40px;
+  }
+  .steady_para {
+    width: auto;
+    line-height: 29px;
+  }
+  .steady_text {
+    position: static;
+    margin-top: 20px;
+  }
+  .steady_img {
+    width: 100%;
+  }
+  .indonesia_heading {
+    width: auto;
+    font-size: 29px;
+  }
+  .indonesia_pera {
+    width: auto;
+    font-size: 13px;
+  }
+  .indonesia_left_text {
+    margin-top: -202px;
+  }
+  .indonesia_link {
+    margin-top: 10px;
+  }
+  .indonesia_right_img {
+    width: 100%;
+    margin-left: 1px;
+  }
+  #footer {
+    margin-top: 40px;
+  }
+  .footer_heading {
+    width: auto;
+    margin-top: 6px;
+    font-size: 28px;
+  }
+  .footer_pera {
+    margin-top: 6px;
+  }
+
+  .footer_right_heading {
+    margin-right: 6px;
+  }
+
+  .footer_right {
+    justify-content: left;
+    margin-bottom: 0px;
+  }
+  .footer_left_first {
+    margin-left: -32px;
+    margin-bottom: 6px;
+  }
+
+  .footer_right_link {
+    padding: 17px 67px;
+    margin-top: -16px;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .banner_title {
+    font-size: 50px;
+  }
+  .banner_sectitle {
+    font-size: 46px;
+
+    line-height: 50px;
+  }
+  .banner_main {
+    padding: 259px 0;
+  }
+  #holiday {
+    margin-top: 50px;
+  }
+  .holiday_img {
+    width: 100%;
+  }
+  .holiday_title {
+    width: auto;
+    font-size: 40px;
+  }
+  .holiday_para {
+    width: auto;
+    line-height: 25px;
+  }
+  .holiday_link {
+    margin-top: 1px;
+  }
+  #steady {
+    margin-top: 50px;
+  }
+  .steady_title {
+    width: auto;
+    font-size: 40px;
+  }
+  .steady_para {
+    width: auto;
+    line-height: 29px;
+  }
+  .steady_text {
+    position: static;
+    margin-top: 20px;
+  }
+  .steady_img {
+    width: 100%;
+  }
+  .indonesia_heading {
+    width: auto;
+    font-size: 29px;
+  }
+  .indonesia_pera {
+    width: auto;
+    font-size: 13px;
+  }
+  .indonesia_left_text {
+    margin-top: -202px;
+  }
+  .indonesia_link {
+    margin-top: 10px;
+  }
+  .indonesia_right_img {
+    width: 100%;
+    margin-left: 1px;
+  }
+  #footer {
+    margin-top: 40px;
+  }
+  .footer_heading {
+    width: auto;
+    margin-top: 6px;
+    font-size: 28px;
+  }
+  .footer_pera {
+    margin-top: 6px;
+  }
+
+  .footer_right_heading {
+    margin-right: 164px;
+    font-size: 19px;
+  }
+  .footer_right {
+    justify-content: left;
+    margin-bottom: 0px;
+  }
+  .footer_left_first {
+    margin-left: -30px;
+    margin-bottom: 6px;
+  }
+  .footer_right_link {
+    margin-top: -16px;
+    margin-left: -143px;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  .banner_title {
+    font-size: 50px;
+  }
+  .banner_sectitle {
+    font-size: 46px;
+
+    line-height: 50px;
+  }
+  .banner_main {
+    padding: 259px 0;
+  }
+  #holiday {
+    margin-top: 50px;
+  }
+  .holiday_img {
+    width: 100%;
+  }
+  .holiday_title {
+    width: auto;
+    font-size: 40px;
+  }
+  .holiday_para {
+    width: auto;
+    line-height: 25px;
+  }
+  .holiday_link {
+    margin-top: 1px;
+  }
+  #steady {
+    margin-top: 50px;
+  }
+  .steady_title {
+    width: auto;
+    font-size: 40px;
+  }
+  .steady_para {
+    width: auto;
+    line-height: 29px;
+  }
+  .steady_text {
+    position: static;
+    margin-top: 20px;
+  }
+  .steady_img {
+    width: 100%;
+  }
+  .indonesia_heading {
+    width: auto;
+    font-size: 29px;
+  }
+  .indonesia_pera {
+    width: auto;
+    font-size: 13px;
+  }
+  .indonesia_left_text {
+    margin-top: -202px;
+  }
+  .indonesia_link {
+    margin-top: 10px;
+  }
+  .indonesia_right_img {
+    width: 100%;
+    margin-left: 1px;
+  }
+  #footer {
+    margin-top: 40px;
+  }
+  .footer_heading {
+    width: auto;
+    margin-top: 6px;
+    font-size: 28px;
+  }
+  .footer_pera {
+    margin-top: 6px;
+  }
+  .footer_right_heading {
+    margin-right: 164px;
+    font-size: 19px;
+  }
+  .footer_right {
+    justify-content: left;
+    margin-bottom: 0px;
+  }
+  .footer_left_first {
+    margin-left: -30px;
+    margin-bottom: 6px;
+  }
+  .footer_right_link {
+    margin-top: -16px;
+    margin-left: -143px;
+  }
+}
